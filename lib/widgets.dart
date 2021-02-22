@@ -95,27 +95,6 @@ class _MyAppState extends State<MyApp> {
                 ),
                 ),
               ),
-              // Container(
-              //   margin: EdgeInsets.all(10),
-              //   child: TextField(
-              //     decoration: InputDecoration(
-              //       enabledBorder: OutlineInputBorder(
-              //         borderSide: BorderSide(width: 3),
-              //         borderRadius: BorderRadius.circular(60.0),
-              //       ),
-              //       labelText: 'Enter Your Birth Year : ',
-              //       hintText: 'Your Birth Year Is',
-              //       labelStyle: TextStyle(
-              //         fontSize: 25,
-              //       ),
-              //       hintStyle:
-              //           TextStyle(fontSize: 25, fontStyle: FontStyle.italic),
-              //     ),
-              //     keyboardType: TextInputType.number,
-              //     autofocus: false,
-              //     textAlign: TextAlign.center,
-              //   ),
-              // ),
             ],
           ),
         ),
